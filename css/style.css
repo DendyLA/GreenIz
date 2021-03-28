@@ -1,4 +1,4 @@
-/* Namari Landing Page v.1.1.0 Style Index - a free landing page by shapingrain.com
+/*
 
 1. Default and Reset styles
 - 1.1 Input Elements
@@ -1513,7 +1513,10 @@ blockquote {
     text-align: right;
     padding-right: 80px;
 }
-
+.galery__top{
+    text-align:center;
+    
+}
 #landing-footer li {
     display: inline-block;
 }
@@ -2100,23 +2103,17 @@ blockquote {
         display: none;
     }
 }
-.galery__top{
-    text-align:center;
-    
-}
 
 /* Landscape mobile & down
 ===============================*/
 @media (max-width: 480px) {
     #logo img{
-        max-width:230px;
+        max-width:200px;
     }
-     #banner-content{
+    #banner-content{
         background-color:white;
     }
-    .tree{
-        display: none;
-    }
+    
     #wrapper {
         margin:0;
         padding:0;
@@ -2125,7 +2122,9 @@ blockquote {
     .page-border, #scrollUp, #scrollUp:before {
         display:none;
     }
-
+    .tree{
+        display: none;
+    }
     .row {
         padding: 15px !important;
     }
@@ -2210,14 +2209,9 @@ blockquote {
 ===============================*/
 @media (min-width: 480px) and (max-width: 767px) {
     #logo img{
-        max-width: 270px;
+        max-width: 230px;
     }
-     #banner-content{
-        background-color:white;
-    }
-    .tree{
-        display: none;
-    }
+    
     #wrapper {
         margin:0;
         padding:0;
@@ -2303,12 +2297,7 @@ blockquote {
         margin:0;
         padding:0;
     }
-     #banner-content{
-        background-color:white;
-    }
-    .tree{
-        display: none;
-    }
+
     .page-border {
         display:none;
     }
