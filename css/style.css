@@ -2109,7 +2109,7 @@ blockquote {
 ===============================*/
 @media (max-width: 480px) {
     #logo img{
-        max-width:200px;
+        max-width:230px;
     }
     .tree{
         display: none;
@@ -2207,7 +2207,7 @@ blockquote {
 ===============================*/
 @media (min-width: 480px) and (max-width: 767px) {
     #logo img{
-        max-width: 230px;
+        max-width: 270px;
     }
     .tree{
         display: none;
@@ -2297,7 +2297,9 @@ blockquote {
         margin:0;
         padding:0;
     }
-
+    .tree{
+        display: none;
+    }
     .page-border {
         display:none;
     }
