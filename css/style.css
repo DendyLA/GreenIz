@@ -2108,10 +2108,10 @@ blockquote {
 ===============================*/
 @media (max-width: 480px) {
     #logo img{
-        max-width:200px;
+        max-width:240px;
     }
     #banner-content{
-        background-color:white;
+        background-color: white;
     }
     
     #wrapper {
@@ -2211,7 +2211,9 @@ blockquote {
     #logo img{
         max-width: 230px;
     }
-    
+    #banner-content{
+        background-color: white;
+    }
     #wrapper {
         margin:0;
         padding:0;
@@ -2220,7 +2222,8 @@ blockquote {
     .page-border, #scrollUp, #scrollUp:before {
         display:none;
     }
-
+    .tree{
+        display: none;
 
     .row {
         padding: 15px 0 !important;
