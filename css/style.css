@@ -2137,7 +2137,9 @@ blockquote {
         padding-right: 0;
         padding-left: 0;
     }
-
+    .col-3{
+        display: none;
+    }
     /*-----------------Header Elements-----------------*/
     #header .row {
         padding: 0 15px !important;
@@ -2164,6 +2166,7 @@ blockquote {
 
     #banner-content.row {
         padding-top: 85px !important;
+        background-color:white;
     }
 
     /*-----------------Sections-----------------*/
@@ -2237,7 +2240,9 @@ blockquote {
     .col-3, .col-4, .col-6, .col-8, .col-10, .col-12 {
         width: 50%;
     }
-
+    .col-3{
+        display: none;
+    }
     /*-----------------Header Elements-----------------*/
     #header .row {
         padding: 0 !important;
@@ -2263,6 +2268,7 @@ blockquote {
 
     #banner-content.row {
         padding-top: 85px !important;
+        background-color:white;
     }
 
     /*Navigation*/
