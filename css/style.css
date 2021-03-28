@@ -2168,6 +2168,9 @@ blockquote {
     #banner-content.row {
         background-color:white;
     }
+    #banner{
+        background-color:white;
+    }
 
     /*-----------------Sections-----------------*/
 
@@ -2213,6 +2216,9 @@ blockquote {
 @media (min-width: 480px) and (max-width: 767px) {
     #logo img{
         max-width: 230px;
+    }
+    #banner{
+        background-color:white;
     }
     #banner-content{
         background-color:white;
