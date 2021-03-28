@@ -2100,12 +2100,19 @@ blockquote {
         display: none;
     }
 }
+.galery__top{
+    text-align:center;
+    
+}
 
 /* Landscape mobile & down
 ===============================*/
 @media (max-width: 480px) {
     #logo img{
         max-width:200px;
+    }
+    .tree{
+        display: none;
     }
     #wrapper {
         margin:0;
@@ -2201,6 +2208,9 @@ blockquote {
 @media (min-width: 480px) and (max-width: 767px) {
     #logo img{
         max-width: 230px;
+    }
+    .tree{
+        display: none;
     }
     #wrapper {
         margin:0;
