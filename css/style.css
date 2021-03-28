@@ -2161,6 +2161,9 @@ blockquote {
     #header ul.social-icons {
         margin-top: 0;
     }
+    .section-heading{
+        font-size:10 px;
+    }
 
     #banner-content.row {
         background-color:white;
@@ -2218,7 +2221,9 @@ blockquote {
         margin:0;
         padding:0;
     }
-
+    .section-heading{
+        font-size:10 px;
+    }
     .page-border, #scrollUp, #scrollUp:before {
         display:none;
     }
