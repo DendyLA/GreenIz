@@ -2170,7 +2170,7 @@ blockquote {
 
     /* Call to Action*/
     .call-to-action {
-        padding-bottom: 25px;
+        padding-bottom: 20px;
     }
 
     /* Video */
@@ -2296,7 +2296,12 @@ blockquote {
 /* Landscape Tablet to Desktop
 ===============================*/
 @media (min-width: 768px) and (max-width: 1024px) {
-
+    #banner-content{
+        background-color:white;
+    }
+    .tree{
+        display:none;
+    }
     #wrapper {
         margin:0;
         padding:0;
