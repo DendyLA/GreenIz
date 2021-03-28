@@ -2137,9 +2137,7 @@ blockquote {
         padding-right: 0;
         padding-left: 0;
     }
-    .col-3 .row{
-        display: none;
-    }
+    
     /*-----------------Header Elements-----------------*/
     #header .row {
         padding: 0 15px !important;
@@ -2165,7 +2163,6 @@ blockquote {
     }
 
     #banner-content.row {
-        padding-top: 85px ;
         background-color:white;
     }
 
