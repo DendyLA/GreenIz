@@ -2111,6 +2111,9 @@ blockquote {
     #logo img{
         max-width:230px;
     }
+     #banner-content{
+        background-color:white;
+    }
     .tree{
         display: none;
     }
@@ -2209,6 +2212,9 @@ blockquote {
     #logo img{
         max-width: 270px;
     }
+     #banner-content{
+        background-color:white;
+    }
     .tree{
         display: none;
     }
@@ -2296,6 +2302,9 @@ blockquote {
     #wrapper {
         margin:0;
         padding:0;
+    }
+     #banner-content{
+        background-color:white;
     }
     .tree{
         display: none;
