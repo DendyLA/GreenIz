@@ -71,8 +71,8 @@ $('.team').slick({
 	slidesToScroll: 3,
 	centerMode: true,
     centerPadding: '50px',
-	prevArrow:"<button type='button' class='slick-prev'><img src='../images/previous.png'> </button>",
-	nextArrow: '<button type="button" class="slick-next"><img src="../images/next.png"></button>',
+	prevArrow:"<button type='button' class='slick-prev'><img src='images/previous.png'> </button>",
+	nextArrow: '<button type="button" class="slick-next"><img src="images/next.png"></button>',
 	responsive: [
 		{
 		  breakpoint: 1024,
