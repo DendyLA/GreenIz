@@ -2096,6 +2096,9 @@ blockquote {
     #preloader,#status{
         margin-left: 2px;
     }
+    .text-head{
+        padding-top:20px;
+    }
     .third__image{
         margin-right:35px;
     }
